@@ -1,1 +1,1 @@
-print("this is initial code pf sample2")
+print("this is initial code of sample2")
